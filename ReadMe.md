@@ -1,4 +1,5 @@
 # 💫 About Me:
+Welcome to my Journey of 100 days of Coding 
 🔭 I’m currently working on Quantum Computing<br>🤝 I’m looking for help with new Budding Programmer<br>🌱 I’m currently learning Full Stack Development<br>
 
 
